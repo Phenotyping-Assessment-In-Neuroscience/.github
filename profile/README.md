@@ -1,4 +1,4 @@
-# Phenotyping Assessment in Neuroscience
+# Phenotyping Assessment In Neuroscience
 
 **Interdisciplinary translational research on pain phenotypes in aging populations**
 
