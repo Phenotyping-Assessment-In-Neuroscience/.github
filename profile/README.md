@@ -1,4 +1,4 @@
-# Phenotyping Assessment In Neuroscience
+# Phenotyping Assessment In Neuroscience (PAIN) Lab
 
 **Interdisciplinary translational research on pain phenotypes in aging populations**
 
