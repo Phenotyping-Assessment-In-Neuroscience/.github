@@ -1,8 +1,13 @@
-# Phenotyping Assessment In Neuroscience (PAIN) Lab
+<p align="center">
+  <img src="https://cruz-almeida-lab.dental.ufl.edu/wordpress/files/2019/09/FullColor_1024x1024_72dpi-e1568149885384-578x322.png" alt="PAIN Lab Logo" height="150">
+</p>
 
-**Interdisciplinary translational research on pain phenotypes in aging populations**
+<h1 align="center">Phenotyping Assessment In Neuroscience (PAIN) Lab</h1>
 
-[Cruz-Almeida Lab](https://cruz-almeida-lab.dental.ufl.edu/) | University of Florida
+<p align="center">
+  <strong>Interdisciplinary translational research on pain phenotypes in aging populations</strong><br>
+  <a href="https://cruz-almeida-lab.dental.ufl.edu/">Cruz-Almeida Lab</a> | University of Florida
+</p>
 
 ---
 
@@ -12,12 +17,35 @@ We use interdisciplinary and translational approaches to examine nervous system 
 
 ## Research Studies
 
-| Study | Description |
-|-------|-------------|
-| **[CREATE TMD](https://tmj.org/pitt-researchers-launch-17m-nih-funded-study-on-tmd/)** | UF site for the $17M NIH-funded Collaborative for REsearch to Advance TMD Evidence, identifying temporomandibular disorder subtypes through brain imaging, RNA sequencing, epigenomics, proteomics, and microbiome profiling |
-| **GALLOP** | Gait, Activity and Locomotion Links to Osteoarthritic Pain—studying pain perception in horses and its impact on mobility to bridge equine and human pain research |
-| **ReJOIN** | Restoring joint health and function to reduce pain in patients undergoing knee or TMJ surgery |
-| **UPBEAT** | Examining the relationship between brain aging and mobility outcomes |
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://cruz-almeida-lab.dental.ufl.edu/wordpress/files/2023/10/UPBEAT-Logo-600x400.png" alt="UPBEAT" width="150"><br>
+      <strong>UPBEAT</strong>
+    </td>
+    <td>Examining the relationship between brain aging and mobility outcomes</td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://cruz-almeida-lab.dental.ufl.edu/wordpress/files/2025/01/square-600x400.png" alt="GALLOP" width="150"><br>
+      <strong>GALLOP</strong>
+    </td>
+    <td>Gait, Activity and Locomotion Links to Osteoarthritic Pain—studying pain perception in horses and its impact on mobility to bridge equine and human pain research</td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://cruz-almeida-lab.dental.ufl.edu/wordpress/files/2024/11/neuron-600x400.png" alt="ReJOIN" width="150"><br>
+      <strong>ReJOIN</strong>
+    </td>
+    <td>Restoring joint health and function to reduce pain in patients undergoing knee or TMJ surgery</td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <strong>CREATE TMD</strong>
+    </td>
+    <td>UF site for the <a href="https://tmj.org/pitt-researchers-launch-17m-nih-funded-study-on-tmd/">$17M NIH-funded</a> Collaborative for REsearch to Advance TMD Evidence, identifying temporomandibular disorder subtypes through brain imaging, RNA sequencing, epigenomics, proteomics, and microbiome profiling</td>
+  </tr>
+</table>
 
 ## Research Focus
 
@@ -62,5 +90,7 @@ Our research is supported by the National Institutes of Health (NIH), University
 ---
 
 <p align="center">
-  <a href="https://dental.ufl.edu/">University of Florida College of Dentistry</a>
+  <a href="https://dental.ufl.edu/">
+    <img src="https://cruz-almeida-lab.dental.ufl.edu/wp-content/themes/ufhealth-apollo/dist/assets/images/uf-monogram.svg?id=a1394011" alt="University of Florida" height="60">
+  </a>
 </p>
